@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.csventorno_titanic
+entorno_titanic/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.csv
+
